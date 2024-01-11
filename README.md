@@ -1,6 +1,7 @@
-### Hi! 🙋🏽‍♂️
+## Hey there! 🙋🏽‍♂️
 
-I have a strong background in programming, maths and problem solving. With an inquiring mind, I am always keen to learn new things and improve my acquired skills. Over the years, I have built a versatile skillset that spans from building web applications using MERN, ASP.Net and Java EE to video game development using Unity and mobile development with Java and Kotlin.
+🧙‍♂️ a freelance web wizard with a passion for turning lines of code into digital magic. ✨
 
-- 👀 Currently looking for Internships
-- 📨 How to reach me: emails
+🚀 Full-stack sorcerer at heart, I've conjured up solutions in Node.js, React, Svelte, and sprinkled some SQL/NoSQL magic along the way. 
+
+🌐💡Currently, I'm on the lookout for new enchanting projects! If you're in need of a freelance tech collaborator, a code storyteller, or just someone to geek out about the latest in web sorcery, I'm here. 
